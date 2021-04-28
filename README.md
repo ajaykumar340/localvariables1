@@ -4,7 +4,7 @@ public class Ajaykumar
 {
 public void aaa()
 {
-int a=20;
+int a=20;   @@@................. local variable............. ######33
 System.out.println(a);
 }
 System.out.println(a);   ///## get the error here because the out of the method ### 
